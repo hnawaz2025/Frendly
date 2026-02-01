@@ -1,0 +1,8 @@
+{
+  "name": "Frendly ",
+  "description": "A calm, supportive, voice-first companion designed for emotional clarity and mental decluttering.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
